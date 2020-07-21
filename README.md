@@ -1,2 +1,2 @@
-# ClassActivities2
-Week 2 Class Activities
+# ClassActivities
+Week 1 Class Activities
