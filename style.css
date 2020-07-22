@@ -17,29 +17,27 @@ h2 {
 body {
     margin: 0px;
     padding: 0px;
-    background-color: lightgrey;
+    background-color: #efeee7;
+    color: #333;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 150%;
 }
 
-
-#main_bio p {
+#main_bio {
     float: left;
-    width: 60%;
-    line-height: 36px;
-    margin-top: 100px;
+    width: 70%;
 }
 
 #contact_info {
     float: left;
     width: 30%;
-    margin-left: 30px;
-    line-height: 36px
 }
 
 #bio_image {
     float: left;
     width: 200px;
-    margin: 50px;
+    height: 200px;
+    margin-right: 50px;
 }
 
 .container {
