@@ -1,0 +1,36 @@
+/*
+  Stylesheet #2
+  =============
+  Here we can define more styles for our HTML page.
+  Take note: The rules here will take precedence over stylesheet #1.
+  That's because #2's rules take effect after #1's, superseding
+  any rules delineated in the older document.
+*/
+
+
+#main-bio {
+    
+    background-color: green;
+    
+  }
+  
+  #contact-info {
+    
+    background-color: hotpink;
+    
+
+  }
+  
+  #bio-image {
+    /* Box-model */
+   
+ 
+    background-color: indigo;
+  }
+    
+
+  
+    /* Positioning */
+    
+  }
+  

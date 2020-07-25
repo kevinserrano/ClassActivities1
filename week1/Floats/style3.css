@@ -1,0 +1,25 @@
+*/
+
+
+
+a {
+  color: #d21034;
+}
+
+.container {
+  /* Box-model */
+  
+
+  /* Positioning */
+  position: relative;
+  
+}
+
+#main-bio,
+#contact-info,
+#bio-image, {
+  
+    float: left;
+  
+
+}
