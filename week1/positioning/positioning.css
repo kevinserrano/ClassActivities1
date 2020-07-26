@@ -1,47 +1,30 @@
-h1 {
-    margin-left: 417px;
-    float: left;
-}
-
-.para { 
-    clear: both;
-    width: 500px;
-    font-size: large;
-    text-align: left;
-    margin: auto;
-}
-
 .fixed {
-    background-color: #eee;
-    height: 150px;
-    width: 200px;
+
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
     position: fixed;
-    text-align: center;
-    font-size: x-large;
+}
+
+.container {
+  position: relative;
+  left: 25%;
+  width: 40%;
+
 }
 
 .relative {
-    background-color: #eee;
+    background-color: blue;
     height: 200px;
-    width: 500px;
-    text-align: center;
-    font-size: x-large;
-    left: 417px;
     position: relative;
-    
-
 
 }
 
 #absolute {
-    background-color: #999;
-    height: 80px;
-    width: 180px;
-    text-align: center;
-    font-size: x-large;
+    background-color: blueviolet;
+    height: 100px;
     position: absolute;
-    margin-top: 93px;
-    margin-left: 370px;
-
-
+    bottom: -30px;
+    right: -30px;
+    
 }
